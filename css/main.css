@@ -777,12 +777,14 @@ footer .inner .email_addr {
 }
 footer .inner .email button {
   width: 25%;
+  color: #111;
   background-color: #cfb569;
   margin-left: 11.7vw;
   border: none;
 }
 footer .inner .addr {
   margin-top: 7vw;
+  margin-bottom: 7vw;
   display: flex;
   flex-flow: row nowrap;
 }
